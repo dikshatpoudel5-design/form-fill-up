@@ -1,4 +1,4 @@
 # form-fill-up
 
 > ### design
-            1. ![from fill](form-fillup.png "form submit")
+            1. ![form-fillup](formfillup.png "form submit")
